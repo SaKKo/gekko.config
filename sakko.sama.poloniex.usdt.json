@@ -1,3 +1,6 @@
 {
-  "hey": "sakko"
+  "ETCUSDT": {
+    "buyPrice": 29,
+    "sellPrice": 32
+  }
 }
