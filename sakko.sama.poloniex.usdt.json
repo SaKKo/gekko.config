@@ -1,10 +1,10 @@
 {
   "ETCUSDT": {
-    "buyPrice": 29.5,
+    "buyPrice": 29,
     "sellPrice": 32
   },
   "STRUSDT": {
-    "buyPrice": 0.45,
+    "buyPrice": 0.44,
     "sellPrice": 0.49
   }
 }
