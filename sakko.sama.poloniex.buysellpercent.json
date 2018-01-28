@@ -1,7 +1,7 @@
 {
   "BTCUSDT": {
-    "buyPrice": 10900,
-    "sellPercent": 1
+    "buyPrice": 10700,
+    "sellPercent": 1.5
   },
   "ETCUSDT": {
     "buyPrice": 26,
