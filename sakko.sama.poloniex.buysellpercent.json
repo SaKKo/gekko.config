@@ -1,4 +1,8 @@
 {
+  "BNBUSDT": {
+    "buyPrice": 13.345,
+    "profitPercent": 1.5
+  },
   "BTCUSDT": {
     "buyPrice": 11000,
     "profitPercent": 1.5
